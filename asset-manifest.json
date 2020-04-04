@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Crio-Launch-Feb-2020-manavdarji-india/static/css/main.5db1380d.chunk.css",
+    "main.js": "/Crio-Launch-Feb-2020-manavdarji-india/static/js/main.5d9d83ac.chunk.js",
+    "main.js.map": "/Crio-Launch-Feb-2020-manavdarji-india/static/js/main.5d9d83ac.chunk.js.map",
+    "runtime-main.js": "/Crio-Launch-Feb-2020-manavdarji-india/static/js/runtime-main.706db6af.js",
+    "runtime-main.js.map": "/Crio-Launch-Feb-2020-manavdarji-india/static/js/runtime-main.706db6af.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/Crio-Launch-Feb-2020-manavdarji-india/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.bff66d8f.chunk.js": "/Crio-Launch-Feb-2020-manavdarji-india/static/js/2.bff66d8f.chunk.js",
+    "static/js/2.bff66d8f.chunk.js.map": "/Crio-Launch-Feb-2020-manavdarji-india/static/js/2.bff66d8f.chunk.js.map",
+    "index.html": "/Crio-Launch-Feb-2020-manavdarji-india/index.html",
+    "precache-manifest.851de18864e8d945f6511a4b684e6e29.js": "/Crio-Launch-Feb-2020-manavdarji-india/precache-manifest.851de18864e8d945f6511a4b684e6e29.js",
+    "service-worker.js": "/Crio-Launch-Feb-2020-manavdarji-india/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/Crio-Launch-Feb-2020-manavdarji-india/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/Crio-Launch-Feb-2020-manavdarji-india/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.bff66d8f.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-manavdarji-india/static/js/2.bff66d8f.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/Crio-Launch-Feb-2020-manavdarji-india/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/Crio-Launch-Feb-2020-manavdarji-india/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.706db6af.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.bff66d8f.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.5d9d83ac.chunk.js"
+  ]
+}
